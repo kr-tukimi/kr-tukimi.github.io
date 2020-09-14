@@ -1659,3 +1659,7 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+/* Option */
+.new_benefits {
+	font-weight: bold;
+}
